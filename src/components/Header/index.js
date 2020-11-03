@@ -1,8 +1,10 @@
+import React from 'react';
+
 import './styles.css';
 
 const Header = () => (
-    <header>
-        <h1> Eu sou um Header  </h1>
+    <header id="main-header">
+        JSHunt
     </header>
 );
 
